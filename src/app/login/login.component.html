@@ -13,9 +13,9 @@
       </mat-form-field>
 
       <div class="c-button-group" fxLayout="column">
-        <button mat-raised-button type="button" color="primary">Login</button>
-        <!-- <button mat-raised-button type="button" color="accent">Login Test</button>
-        <button mat-raised-button type="button" color="warn">Login Warn</button>
+        <button mat-raised-button type="button" color="primary" [routerLink]="'/dashboard'">Login</button>
+        <button mat-raised-button type="button" color="accent" (click)="goToDashboard();">Login Test</button>
+        <!-- <button mat-raised-button type="button" color="warn">Login Warn</button>
         <button mat-raised-button type="button" color="secondary">Login Secondary</button>
         <button mat-raised-button type="button" color="error">Login Error</button>
         <button mat-raised-button type="button" color="primary" disabled>Login with Diavox</button> -->

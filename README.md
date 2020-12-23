@@ -1,10 +1,10 @@
 # Current Design
 
 Login Page
-![Login](https://ibb.co/hD6rDK2)
+![Login](https://i.ibb.co/r4jq4Z5/login.png)
 
 Dashboard Page
-![Dashboard](https://ibb.co/Fh4KqS6)
+![Dashboard](https://i.ibb.co/HKTVpW7/dashboard.png)
 
 
 # Angular10Base

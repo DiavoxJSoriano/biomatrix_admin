@@ -1,3 +1,12 @@
+# Current Design
+
+Login Page
+![Login](https://ibb.co/hD6rDK2)
+
+Dashboard Page
+![Dashboard](https://ibb.co/Fh4KqS6)
+
+
 # Angular10Base
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.

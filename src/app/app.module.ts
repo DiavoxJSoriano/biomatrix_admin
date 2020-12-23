@@ -19,12 +19,17 @@ import { MatToolbarModule } from '@angular/material/toolbar';
 // Components
 import { LoginComponent } from './login/login.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
+import { ShowLogsComponent } from './dashboard/show-logs/show-logs.component';
+import { NavigationComponent } from './navigation/navigation.component';
+
 
 @NgModule({
   declarations: [
     AppComponent,
     LoginComponent,
-    DashboardComponent
+    DashboardComponent,
+    ShowLogsComponent,
+    NavigationComponent
   ],
   imports: [
     BrowserModule,
